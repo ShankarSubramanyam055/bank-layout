@@ -120,7 +120,7 @@ header #menu li a{
 	color:#000;
 	text-transform:uppercase;
 	text-decoration:none;
-	display:inline-block
+	display:inline-block;
 }
 
 header #menu li a:hover, header #menu li a.active{
