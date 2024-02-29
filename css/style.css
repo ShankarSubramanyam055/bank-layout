@@ -124,7 +124,7 @@ header #menu li a{
 }
 
 header #menu li a:hover, header #menu li a.active{
-	color:#999;
+	color:#00adeb;
 	text-decoration:none;
 }
 
