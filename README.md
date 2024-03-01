@@ -1,0 +1,1 @@
+This is a web template layout of the HOME page designed for a "Bank" website. I have used Photoshop; HTML4 / HTML5; CSS2 / CSS3; JavaScript & jQuery. For seeing the output, kindly visit the link: https://shankarsubramanyam055.github.io/bank-layout/bank.html or https://shankarsubramanyam055.github.io/bank-layout/
